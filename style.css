@@ -32,22 +32,22 @@ rgb(229, 249, 248) white (body=background)
 
 @font-face {
     font-family: "OpenSans-Regular";
-    src: url("Open_Sans/OpenSans-Regular.ttf");
+    src: url("fonts/Open_Sans/OpenSans-Regular.ttf");
 }
 
 @font-face {
     font-family: "OpenSans-Italic";
-    src: url("Open_Sans/OpenSans-Italic.ttf");
+    src: url("fonts/Open_Sans/OpenSans-Italic.ttf");
 }
 
 @font-face {
     font-family: "OpenSans-SemiBold";
-    src: url("Open_Sans/OpenSans-SemiBold.ttf");
+    src: url("fonts/Open_Sans/OpenSans-SemiBold.ttf");
 }
 
 @font-face {
     font-family: "OpenSans-Bold";
-    src: url("Open_Sans/OpenSans-Bold.ttf");
+    src: url("fonts/Open_Sans/OpenSans-Bold.ttf");
 }
 
 @font-face {
